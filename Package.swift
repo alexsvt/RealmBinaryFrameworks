@@ -19,7 +19,7 @@ func buildTargets() -> [Target] {
 }
 
 let package = Package(
-    name: "BinaryRealmFramework",
+    name: "BinaryRealm",
     platforms: [.iOS(.v13)],
     products: [
         .library(
