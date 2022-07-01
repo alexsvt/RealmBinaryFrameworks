@@ -1,3 +1,3 @@
 # RealmBinaryFrameworks
 
-A description of this package.
+Vends Realm xcframeworks via SPM to save build time
